@@ -4,48 +4,28 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: **"Aura Saudável: Estilo e Bem-Estar em Cada Palavra"**
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste em um vídeo que fala sobre a importância da saúde, promovendo uma abordagem inovadora e acessível ao tema. A ideia é integrar inteligência artificial para tornar o conteúdo de saúde mais envolvente e atraente, utilizando um design visualmente agradável e uma comunicação clara e empática.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Inteligência Artificial Generativa (IA):**
+  - **ChatGPT**: criar roteiro e o conteúdo informativo sobre saúde, além de completar esse template.
+  - **Pictory.IA**: gerar legendas em português.
+  - **Colossyan**: para criar vídeos do avatar falando, com narração gerada por IA.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo começou com a definição da mensagem que o avatar transmitiria sobre saúde. Escolhi usar uma IA generativa para criar uma estética única e moderna para o avatar, buscando transmitir confiança e empatia. Após isso, a IA foi alimentada com dados sobre saúde, para garantir que o conteúdo gerado fosse preciso, envolvente e educativo.
+
+Por fim, ajustes de legenda foram feitos para melhorar a experiência do usuário.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto resultou em um avatar interativo e visualmente atraente, capaz de falar sobre a importância da saúde de maneira cativante. O avatar foi projetado para ser educativo, mas ao mesmo tempo acessível e moderno.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo “natty” com IA foi um grande desafio, pois envolveu equilibrar estética com funcionalidade. As IAs generativas permitiram uma enorme liberdade criativa, mas também exigiram cuidados na escolha de dados e no refinamento da animação e do conteúdo. O maior desafio foi manter o avatar autêntico e próximo de um ser humano, de modo que a mensagem sobre saúde fosse bem recebida e compreendida.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Vídeo: https://github.com/user-attachments/assets/edbedfd6-93e3-4ed2-bc17-c0708f7e635b
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
